@@ -1,2 +1,1 @@
-# cal
-calculator using html,css and java
+A simple yet elegant web-based calculator created using HTML, CSS, and JavaScript to perform everyday mathematical calculations. The project showcases responsive design principles, interactive user interfaces, and efficient JavaScript-based computation.
